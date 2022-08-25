@@ -18,17 +18,11 @@
   <% else  %>
   <div class = "product_buttons">
       <div>
-        <%= button_to add_item_cart_path, class: 'btn soldout' ,
-        method: :post do %>
-          <%= text ='Sold Out' %> 
-        <% end %>
+      <button class= "btn soldout"> Sold Out </button>
       </div>
 
     <div>
-      <%= button_to add_item_cart_path(product_id: product.id), class: 'btn' ,
-      method: :post do %>
-        <%= fa_icon "shopping-cart", text: 'Add' %> 
-      <% end %>
+    <button class= "btn" disabled> <%= fa_icon "shopping-cart", text: 'Add' %> </button>
     </div>
   </div>
   <% end %>
