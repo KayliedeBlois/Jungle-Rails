@@ -2,6 +2,8 @@
 
 A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
+## Final Product
+
 ## Setup
 
 1. Run `bundle install` to install dependencies
@@ -20,6 +22,10 @@ If Rails is complaining about authentication to the database, uncomment the user
 ## Stripe Testing
 
 Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
+
+Use any future date for the Credit Card expiration data.
+
+Use any 3 digits for the CVV (Card Verification Value).
 
 More information in their docs: <https://stripe.com/docs/testing#cards>
 
