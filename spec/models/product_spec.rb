@@ -13,7 +13,7 @@ RSpec.describe Product, type: :model do
         @category.name = "TestCategory"
 
         @correctProduct = Product.new()
-        @correctProduct.name = "testName"
+        @correctProduct.name = "testProduct"
         @correctProduct.price = 10
         @correctProduct.quantity = 20 
         @correctProduct.category = @category
