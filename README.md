@@ -4,8 +4,13 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 
 ## Final Product
 
+### Sign Up
 ![Sign Up](https://im3.ezgif.com/tmp/ezgif-3-354dcef202.gif)
+
+### Add to Cart
 ![Add to Cart](https://im3.ezgif.com/tmp/ezgif-3-c2b07ce7fc.gif)
+
+### Check Out
 ![Check Out](https://im3.ezgif.com/tmp/ezgif-3-53576dcec2.gif)
 
 ## Setupx
