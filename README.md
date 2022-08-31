@@ -5,8 +5,10 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 ## Final Product
 
 ![Sign Up](https://im3.ezgif.com/tmp/ezgif-3-354dcef202.gif)
+![Add to Cart](https://im3.ezgif.com/tmp/ezgif-3-c2b07ce7fc.gif)
+![Check Out](https://im3.ezgif.com/tmp/ezgif-3-53576dcec2.gif)
 
-## Setup
+## Setupx
 
 1. Run `bundle install` to install dependencies
 2. Create `config/database.yml` by copying `config/database.example.yml`
